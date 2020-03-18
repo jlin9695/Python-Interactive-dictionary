@@ -1,3 +1,4 @@
+#this file only works because the data.json file is a premade dict file that has no errors. If the datajson file had had errors, this would not work. 
 import json
 from difflib import get_close_matches
 
